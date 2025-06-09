@@ -15,8 +15,8 @@ Le message est important
 ## git push
 Permet de pousser les modifications em ligne
 ## git status
-Permet de verifier le status du repertoire
-Permet de lister les modifications a traiter
+-Permet de verifier le status du repertoire
+-Permet de lister les modifications a traiter
 
 ## git log
 Permet de lister les modifications en local
